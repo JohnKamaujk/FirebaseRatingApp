@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334949214951",
+    "project_id": "fir-ratingapp-113f6",
+    "storage_bucket": "fir-ratingapp-113f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334949214951:android:818f34abc841efa02c5042",
+        "android_client_info": {
+          "package_name": "com.example.firebaseratingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334949214951-k0ggnp1knvric6q2kctsn8o8a9323q0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJuaTvtGM-zY2mQLpfMKp5qB2AcX6ina4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334949214951-k0ggnp1knvric6q2kctsn8o8a9323q0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
